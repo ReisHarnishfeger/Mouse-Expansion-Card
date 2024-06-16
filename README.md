@@ -1,2 +1,4 @@
 # Mouse-Expansion-Card
-This is the design files for a mouse expansion for the Frameworkb Laptop
+- laser tracking
+- right and left click
+- scroll and middle click
